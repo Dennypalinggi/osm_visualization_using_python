@@ -1,5 +1,8 @@
 # osm_visualization_using_python
-Collecting point of interest &amp; street data from OpenStreetMap and vizualise it using Folium. The main goal of the project is to give color to the streets based on the distance (800m, 1000m, and 1200m) from the centre point. For the first notebook I use euclidan distance and for the second notebook I use road distance as measurement method.
+Collecting point of interest &amp; street data from OpenStreetMap and vizualise it using Folium. The main goal of the project is to give color to the streets based on the distance (800m, 1000m, and 1200m) from the centre point. For the first notebook I use euclidan distance and for the second notebook I use road distance as measurement method. To see the map visualization, click links below.
+
+https://nbviewer.jupyter.org/github/Dennypalinggi/osm_visualization_using_python/blob/master/osm_visualization_using_overpy.ipynb
+https://nbviewer.jupyter.org/github/Dennypalinggi/osm_visualization_using_python/blob/master/osm_visualization_using_osmnx.ipynb
 
 ## Packages used
 
@@ -24,9 +27,3 @@ Collecting point of interest &amp; street data from OpenStreetMap and vizualise 
 
 #### Map visualization:
 * folium
-
-
-
-To see the map visualization, click links below.
-https://nbviewer.jupyter.org/github/Dennypalinggi/osm_visualization_using_python/blob/master/osm_visualization_using_overpy.ipynb
-https://nbviewer.jupyter.org/github/Dennypalinggi/osm_visualization_using_python/blob/master/osm_visualization_using_osmnx.ipynb
