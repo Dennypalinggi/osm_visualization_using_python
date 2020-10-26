@@ -25,5 +25,5 @@ https://nbviewer.jupyter.org/github/Dennypalinggi/osm_visualization_using_python
 #### Network analysis
 * networkx
 
-#### Map visualization:
+#### Map visualization
 * folium
